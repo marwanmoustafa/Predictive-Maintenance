@@ -1,11 +1,15 @@
 # Predictive-Maintenance
-Objective
+Objective :
+
 My goal was to implement the two of the Predictive Maintenance Machine Learning
-Techniques Technique 1 - Regression Models to predict the remaining useful life (RUL) and
-Technique 2 – Classification Model to Predict Failure Within a Pre-Decided Time Frame.
-Dataset
+Techniques Technique 
+1 - Regression Models to predict the remaining useful life (RUL) and Technique 
+2 – Classification Model to Predict Failure Within a Pre-Decided Time Frame.
+
+Dataset:
 In my application I have used the Turbofan Jet Engine Data Set from NASA.
-Description
+
+Description:
 Prognostics and health management is an important topic in industry for predicting state
 of assets to avoid downtime and failures. This data set is the Kaggle version of the very well
 known public data set for asset degradation modeling from NASA. It includes Run-to-Failure
@@ -14,7 +18,8 @@ Engine degradation simulation was carried out using C-MAPSS. Four different were
 simulated under different combinations of operational conditions and fault modes. Records
 several sensor channels to characterize fault evolution. The Prognostics CoE at NASA Ames
 provided the data set.
-Prediction Goal
+
+Prediction Goal:
 In this dataset the goal is to predict the remaining useful life (RUL) of each engine in the
 test dataset. RUL is equivalent of number of flights remained for the engine after the last
 datapoint in the test dataset
